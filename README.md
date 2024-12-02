@@ -1,1 +1,2 @@
 # Blinkit-Data-Analysis
+Blinkit is an Indian online grocery delivery app that promises to deliver daily essentials in just 10 minutes. Formerly known as Grofers, Blinkit allows users to shop for a wide range of products, including fresh fruits and vegetables, dairy products, snacks, personal care items, and household essentials1. The app is designed for quick and convenient shopping, with a focus on fast delivery and competitive pricing. Blinkit operates in multiple cities across India, making it a popular choice for last-minute grocery needs
